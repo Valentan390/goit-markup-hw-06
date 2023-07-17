@@ -1089,7 +1089,7 @@ background-color: #31d0aa;
     opacity: 1;
 }
 
-.modal-form-check:checked + .modal-form-fake-checkbox {
+.modal-form-check:checked + .label-checkbox .modal-form-fake-checkbox {
     background-color: #404bbf;
     border: none;
     fill: #F4F4FD;
